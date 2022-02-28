@@ -56,7 +56,7 @@ a {
 }
 
 .header-menu a:hover::after {
-    width: 100%;
+  width: 100%;
 }
 
 @media (max-width: 800px) {
@@ -72,7 +72,7 @@ a {
     background: #2e2e2e;
   }
   .header a:after {
-      display: none;
+    display: none;
   }
 }
 
