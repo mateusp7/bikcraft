@@ -3,7 +3,7 @@
   padding: 16px 32px;
   background: linear-gradient(#ffbf00, #e69c0b);
   border-radius: 5px;
-  color: #332200;
+  color: var(--cor-p5);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   text-transform: uppercase;
   font-size: 1.125rem;
