@@ -49,10 +49,16 @@
     text-align: center;
   }
   .depoimento img {
-      max-height: 200px;
+    max-height: 200px;
   }
   .depoimento-conteudo {
     padding: 40px 20px;
     justify-self: center;
+  }
+  .depoimento p::before {
+    left: -20px;
+  }
+  .depoimento p::after { 
+    right: -8px;
   }
 }
