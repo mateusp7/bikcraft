@@ -75,6 +75,8 @@
   width: 24px;
 }
 
+/* Apenas para distanciar os elementos */
+
 .bicicletas-conteudo ul {
   display: grid;
   gap: 16px;
