@@ -18,13 +18,13 @@
   border-radius: 4px 0px 0px 4px;
 }
 
+.contato-dados h2 {
+  margin-bottom: 60px;
+}
+
 .contato-formulario {
   background-color: var(--cor-00);
   border-radius: 0px 4px 4px 0px;
-}
-
-.contato-dados h2 {
-  margin-bottom: 60px;
 }
 
 .contato-endereco {
